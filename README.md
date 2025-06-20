@@ -6,13 +6,13 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 
 ## 🚀 Features
 
-- 🌐 Frontend built with **React JS**
-- 🧠 Backend powered by **Node.js, Express & MongoDB**
+-  Frontend built with **React JS**
+-  Backend powered by **Node.js, Express & MongoDB**
 - used **tailwind css** for design
-- 📦 **Mongoose** for MongoDB object modeling
-- 🖼 **Image Upload** with **Multer** and **Cloudinary**
-- 📧 **Email sending** using **Nodemailer**
-- 🔄 **Two API routes** for:
+-  **Mongoose** for MongoDB object modeling
+-  **Image Upload** with **Multer** and **Cloudinary**
+-  **Email sending** using **Nodemailer**
+-  **Two API routes** for:
   - Adding a new item
   - Fetching all items
 
