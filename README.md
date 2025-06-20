@@ -18,5 +18,11 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 
 ---
 
+
+## 📩 Email Preview
+
+![Email Preview](Frontend/public/email-preview.jpg)
+
+
 ## 📁 Project Structure
 
