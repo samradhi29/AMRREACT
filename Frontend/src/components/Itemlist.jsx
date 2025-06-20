@@ -10,7 +10,7 @@ export default function ItemList() {
 
   const fetchItems = async () => {
     try {
-      const res = await axios.get('https://amrreact.onrender.com/api/items/getitems');
+      const res = await axios.get('https://amrreact-14.onrender.com/api/items/getitems');
       setItems(res.data);
     } catch (err) {
       console.error('Failed to fetch items:', err);

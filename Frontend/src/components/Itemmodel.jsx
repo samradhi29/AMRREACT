@@ -12,7 +12,7 @@ export default function ItemModal({ item, onClose }) {
 
   const handleEnquire = async () => {
     try {
-      await axios.post('http://localhost:5000/api/items/enquire', {
+      await axios.post('https://amrreact-14.onrender.com/api/items/enquire', {
         itemId: item._id,
         name: item.name,
         type: item.type,
