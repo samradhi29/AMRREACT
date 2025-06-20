@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import ItemModal from './Itemmodel';
+import ItemModal from './Itemmodel.jsx';
 
 export default function ItemList() {
   const [items, setItems] = useState([]);

@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
-import Additems from './components/additems';
-import ItemList from './components/Itemlist';
+import Additems from './components/additems.jsx';
+import ItemList from './components/Itemlist.jsx';
 
 export default function App() {
   return (
