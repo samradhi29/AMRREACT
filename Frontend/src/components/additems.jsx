@@ -48,7 +48,7 @@ export default function AddItems() {
 
     try {
       
-      const res = await axios.post('http://localhost:5000/api/items/additems', formData, {
+      const res = await axios.post('https://amrreact.onrender.com/api/items/additems', formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
       });
 
