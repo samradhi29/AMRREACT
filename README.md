@@ -17,9 +17,12 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
   - Fetching all items
 
 ---
+
+
 ## 📩 Email Preview
 
-![Email Preview](frontend/public/assets/screenshot.jpg)
+![Email Preview](frontend/public/email-preview.jpg)
+
 
 ## 📁 Project Structure
 
